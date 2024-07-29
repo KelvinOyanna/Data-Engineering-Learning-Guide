@@ -44,6 +44,9 @@ Data engineering is a specialization in the field of data that concerns building
 - Git - For version control & remote collaboration.
 - Kubernetes for data pipeline deployment
 
+## **Structured Course:**
+[https://www.dataquest.io/path/data-engineer/](https://www.dataquest.io/path/data-engineer/)
+
 ## **Get your hands on real-world projects:**
 
 Follow this link to access DE projects to work on: [https://www.ssp.sh/brain/open-source-data-engineering-projects/](https://www.ssp.sh/brain/open-source-data-engineering-projects/)
@@ -57,9 +60,6 @@ Join [https://www.reddit.com/r/dataengineering/](https://www.reddit.com/r/dataen
 Follow & watch the videos on this Data Engineering Bootcamp:  
 [https://github.com/DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 
-## **Structured Course:**
-
-[https://www.dataquest.io/path/data-engineer/](https://www.dataquest.io/path/data-engineer/)
 
 ## **Jobs:**
 
